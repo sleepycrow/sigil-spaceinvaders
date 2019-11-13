@@ -1,0 +1,7 @@
+h1. Space Invaders
+
+A super-simple, barebones "SIGIL-based":http://libsigil.com/ C++ Space Invaders clone made for an extra grade in a programming class.
+
+h3. Compiling
+
+When compiling a release copy, make sure to copy the files BULKYPIX.TTF, glew32.dll, libsigil.dll, OpenAL32.dll and wrap_oal.dll to the same folder as the compiled executable, as the game will not work without them! CodeBlocks *should* do so automatically on windows platforms whenever a release version is compiled, but it never hurts to make sure it did!
